@@ -1,0 +1,22 @@
+
+14:13:34.992 [error] GenServer Gatherer terminating
+** (stop) bad return value: {:moreply, 1}
+Last message: {:"$gen_cast", {:result, "/home/okoth/Downloads/Contacts-2024-07-26(1) (3).vcf", <<236, 148, 49, 242, 91, 180, 202, 98, 210, 215, 167, 235, 169, 212, 213, 158>>}}
+State: 1
+
+14:13:35.009 [error] GenServer Gatherer terminating
+** (stop) bad return value: {:moreply, 1}
+Last message: {:"$gen_cast", {:result, "/home/okoth/Downloads/Contacts-2024-07-26(1) (3).vcf", <<236, 148, 49, 242, 91, 180, 202, 98, 210, 215, 167, 235, 169, 212, 213, 158>>}}
+State: 1
+
+14:13:35.012 [error] GenServer Gatherer terminating
+** (stop) bad return value: {:moreply, 1}
+Last message: {:"$gen_cast", {:result, "/home/okoth/Downloads/Contacts-2024-07-26(1) (3).vcf", <<236, 148, 49, 242, 91, 180, 202, 98, 210, 215, 167, 235, 169, 212, 213, 158>>}}
+State: 1
+
+14:13:35.014 [error] GenServer Gatherer terminating
+** (stop) bad return value: {:moreply, 1}
+Last message: {:"$gen_cast", {:result, "/home/okoth/Downloads/Contacts-2024-07-26(1) (3).vcf", <<236, 148, 49, 242, 91, 180, 202, 98, 210, 215, 167, 235, 169, 212, 213, 158>>}}
+State: 1
+
+14:13:35.015 [notice] Application duper exited: shutdown
